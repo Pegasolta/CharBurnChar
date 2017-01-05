@@ -377,6 +377,7 @@ function update () {
   if (player.lvl >= 500 && player.hp <= 20 && health <= 10 && mewCount === 0) {
     boxPaused = true
     mewCount++
+    playMewHeal()
     player.hp = 100
     mew151Box.style.display = 'block'
   }
@@ -602,7 +603,7 @@ function update () {
 
     var toRemove = false;
     upgradeList3[key].timer++;
-    if(upgradeList3[key].timer > 30) {
+    if(upgradeList3[key].timer > 100) {
     toRemove = true;
     }
 

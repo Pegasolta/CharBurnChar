@@ -1,6 +1,6 @@
 #ctx {
   margin: 0 auto;
-  margin-top: 170px;
+  margin-top: 15%;
   background-image: url("images/grass.png");
   background-size: cover;
   width: inherit;
@@ -17,8 +17,8 @@ body {
   font-family: 'Press Start 2P', cursive;
   width: 300px;
   position: absolute;
-  left: 510px;
-  top: 110px;
+  left: 42%;
+  top: 18%;
   color: yellow;
   font-size: 22px;
   text-shadow: -2px 0 blue, 0 2px blue, 2px 0 blue, 0 -2px blue
@@ -29,14 +29,14 @@ body {
   width: 600px;
   height: 800px;
   position: fixed;
-  left: 320px;
-  top: 90px;
+  left: 26%;
+  top: 10%;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
   color: white;
   font-size: 13px;
   line-height: 20px;
-  padding: 20px;
+  padding: 10px;
   /*display: none;*/
 }
 
@@ -45,8 +45,8 @@ body {
   width: 650px;
   height: 230px;
   position: fixed;
-  left: 295px;
-  top: 250px;
+  left: 23%;
+  top: 38%;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
   color: white;
@@ -61,8 +61,8 @@ body {
   width: 650px;
   height: 280px;
   position: fixed;
-  left: 295px;
-  top: 250px;
+  left: 23%;
+  top: 38%;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
   color: white;
@@ -77,8 +77,8 @@ body {
   width: 650px;
   height: 240px;
   position: fixed;
-  left: 295px;
-  top: 250px;
+  left: 23%;
+  top: 38%;
   background-color: rgba(0, 0, 0, 0.5);;
   text-align: center;
   color: white;
@@ -93,8 +93,8 @@ body {
   width: 650px;
   height: 230px;
   position: fixed;
-  left: 295px;
-  top: 250px;
+  left: 23%;
+  top: 38%;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
   color: white;
@@ -109,8 +109,8 @@ body {
   width: 650px;
   height: 230px;
   position: fixed;
-  left: 295px;
-  top: 250px;
+  left: 23%;
+  top: 38%;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
   color: white;
@@ -125,8 +125,8 @@ body {
   width: 650px;
   height: 270px;
   position: fixed;
-  left: 295px;
-  top: 250px;
+  left: 23%;
+  top: 38%;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
   color: white;
@@ -141,8 +141,8 @@ body {
   width: 650px;
   height: 230px;
   position: fixed;
-  left: 295px;
-  top: 250px;
+  left: 23%;
+  top: 38%;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
   color: white;
@@ -157,7 +157,7 @@ body {
   width: 650px;
   height: 290px;
   position: fixed;
-  left: 295px;
+  left: 23%;
   top: 240px;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
@@ -173,7 +173,7 @@ body {
   width: 650px;
   height: 330px;
   position: fixed;
-  left: 295px;
+  left: 23%;
   top: 200px;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
@@ -189,7 +189,7 @@ body {
   width: 650px;
   height: 320px;
   position: fixed;
-  left: 295px;
+  left: 23%;
   top: 200px;
   background-color: rgba(0, 0, 0, 0.7);;
   text-align: center;
